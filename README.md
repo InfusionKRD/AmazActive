@@ -2,7 +2,7 @@
 Мой циферблат для часов Amazfit Active
 
 
-[preview]!(pr1_time.png)
+![preview](pr1_time.png)
 
 
 **Превью циферблата**
