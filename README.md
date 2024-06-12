@@ -3,7 +3,7 @@
 
 
 
-![preview](pr1_time.png) ![preview_aod](pr4_AOD.png)
+![preview](pr1_time.png) ![preview_aod](pr4_aod.png)
 
 
 
