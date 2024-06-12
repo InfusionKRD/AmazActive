@@ -21,7 +21,8 @@
 
 **Установить на часы:** <br>
 
-![preview](QR_v2.png)
+![setup](QR_V2.png)
+
 
 
 <details>
